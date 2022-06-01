@@ -3,3 +3,7 @@ h2 {
     padding-bottom: 2rem;
     padding-top: 2rem;
 }
+
+.jumbotron {
+    background-image: url("assets/italy.jpeg");
+}
